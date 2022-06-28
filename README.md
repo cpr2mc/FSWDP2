@@ -13,8 +13,9 @@ Vue.JS + Bootstrap
 Django + Postgre SQL
 
 ### Other:
-pgAdmin
-Postman
+- pgAdmin
+- Postman
+- psycopg2
 
 ### Goals: 
 Repetition with Vue.JS and Django, as well as initial experience with Postgre SQL.
