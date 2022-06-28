@@ -11,6 +11,10 @@ Vue.JS + Bootstrap
 ### Back End: 
 Django + Postgre SQL
 
+### Other:
+pgAdmin
+Postman
+
 ### Goals: 
 Repetition with Vue.JS and Django, as well as initial experience with Postgre SQL.
 
